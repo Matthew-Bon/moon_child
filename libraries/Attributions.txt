@@ -1,0 +1,2 @@
+The kicad files in this folder were created by Martin Resesth and the respective repo can be found here: https://github.com/HDR/RP2350_KiCad
+The files within this folders utilize the GPL-3.0 License, consult the inluded license file for more details. 
