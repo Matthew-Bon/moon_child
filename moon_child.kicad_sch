@@ -16,8 +16,8 @@
 		(uuid "030baeca-9b0b-4a8b-97d4-a162700241e3")
 	)
 	(sheet
-		(at 123.19 26.67)
-		(size 33.02 26.67)
+		(at 83.82 21.59)
+		(size 33.02 57.15)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -28,7 +28,7 @@
 		)
 		(uuid "2020c3b7-5d3f-4410-b013-36b6a2638d7a")
 		(property "Sheetname" "connectors+mechanical"
-			(at 123.19 25.9584 0)
+			(at 83.82 20.8784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,13 +37,133 @@
 			)
 		)
 		(property "Sheetfile" "connectors_+_mechanical.kicad_sch"
-			(at 123.19 53.9246 0)
+			(at 83.82 79.3246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "VBATT_Sense" input
+			(at 83.82 25.4 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a39b8f95-d0e0-4d0f-ba33-a477ab40c61a")
+		)
+		(pin "VBATT_I" input
+			(at 83.82 27.94 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "371670cf-7f67-4ab1-a3c2-9c026ec69397")
+		)
+		(pin "GPS_INT" input
+			(at 83.82 35.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "75cd3139-a8b5-4e54-81b7-6a1544d9492b")
+		)
+		(pin "GPS_PPS" input
+			(at 83.82 40.64 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2563f547-f4f1-4b17-9321-522bb50271d1")
+		)
+		(pin "GPS_SAFE" input
+			(at 83.82 38.1 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "94451744-4bf5-49c2-b3a1-4f6a0f8f4fd1")
+		)
+		(pin "GPS_RESET" input
+			(at 83.82 43.18 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "059f2a98-9503-4cc3-b7c3-d50bd0728fdc")
+		)
+		(pin "GPS_TX" input
+			(at 83.82 63.5 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "cf3dd27c-d607-4afb-bba1-2a2af30c39bb")
+		)
+		(pin "GPS_RX" input
+			(at 83.82 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "378b199c-a5fd-456c-9b95-00ebf91a0cf4")
+		)
+		(pin "Encoder1_A" input
+			(at 83.82 54.61 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "40ba6c31-0102-47ae-964a-958569cc3d9d")
+		)
+		(pin "Encoder1_B" input
+			(at 83.82 57.15 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "54a6ca5e-ef5a-4cb2-971c-ff50d8bd0b18")
+		)
+		(pin "Encoder0_A" input
+			(at 83.82 48.26 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "38be7d95-9977-4788-8324-b8f14c750e15")
+		)
+		(pin "Encoder0_B" input
+			(at 83.82 50.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "8aa1f01b-cb4d-4230-b7ff-d92751d5f263")
 		)
 		(instances
 			(project "moon_child"
@@ -54,8 +174,8 @@
 		)
 	)
 	(sheet
-		(at 60.96 105.41)
-		(size 33.02 26.67)
+		(at 83.82 109.22)
+		(size 33.02 34.29)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -66,7 +186,7 @@
 		)
 		(uuid "68da5adc-0b2d-4a3d-9dbd-3c9825249f40")
 		(property "Sheetname" "sd_card+expansion"
-			(at 60.96 104.6984 0)
+			(at 83.82 108.5084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75,13 +195,113 @@
 			)
 		)
 		(property "Sheetfile" "sd_card_+_expansion.kicad_sch"
-			(at 60.96 132.6646 0)
+			(at 83.82 144.0946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "Expansion_RX" input
+			(at 83.82 114.3 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "81d7d05e-7d3c-4078-a031-da11b02aac05")
+		)
+		(pin "Spare_CS_2" input
+			(at 83.82 140.97 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b8a4afef-de64-4636-9ad9-97bd1ce61c71")
+		)
+		(pin "Spare_CS_0" input
+			(at 83.82 135.89 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2b9017bd-3687-4d24-b468-f59d61be0cae")
+		)
+		(pin "MCU_SDI" input
+			(at 83.82 120.65 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6ce9e196-9fa8-4948-b47d-cf251fceac25")
+		)
+		(pin "SD_DET" input
+			(at 83.82 130.81 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b0b63d92-8435-4191-9674-b135a7f5331f")
+		)
+		(pin "MCU_SDO" input
+			(at 83.82 118.11 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a2648357-c90e-4d42-91b5-34ebbc83ff55")
+		)
+		(pin "MCU_SCLK" input
+			(at 83.82 123.19 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "36d20731-fae9-48df-879b-23ef5c069a80")
+		)
+		(pin "SD_CS" input
+			(at 83.82 128.27 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "77a426d7-1cab-46c7-a3d3-e6d0697f1bfc")
+		)
+		(pin "Spare_CS_1" input
+			(at 83.82 138.43 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1286621a-6c47-4268-9414-42c13cc68c9d")
+		)
+		(pin "Expansion_TX" input
+			(at 83.82 111.76 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "3686e4e3-c4bd-4bed-b714-f24848b42acc")
 		)
 		(instances
 			(project "moon_child"
@@ -92,8 +312,8 @@
 		)
 	)
 	(sheet
-		(at 123.19 64.77)
-		(size 33.02 26.67)
+		(at 83.82 85.09)
+		(size 33.02 17.78)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -104,7 +324,7 @@
 		)
 		(uuid "6bebcadf-eb23-4c33-a409-d20713279cc6")
 		(property "Sheetname" "motor drives"
-			(at 123.19 64.0584 0)
+			(at 83.82 84.3784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -113,13 +333,53 @@
 			)
 		)
 		(property "Sheetfile" "motor_drives.kicad_sch"
-			(at 123.19 92.0246 0)
+			(at 83.82 103.4546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "M1_IN1" input
+			(at 83.82 97.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6177a615-2222-447d-8a2a-b65fbcea997e")
+		)
+		(pin "M1_IN2" input
+			(at 83.82 95.25 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "d7ee8e18-6ff4-4283-bbe8-05836ca5fca0")
+		)
+		(pin "M0_IN1" input
+			(at 83.82 88.9 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5314b4c0-6e9e-4ae5-92fa-dc86643e7cea")
+		)
+		(pin "M0_IN2" input
+			(at 83.82 91.44 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e49b6f75-fbbf-4a55-9ca9-190420d24715")
 		)
 		(instances
 			(project "moon_child"
@@ -130,7 +390,7 @@
 		)
 	)
 	(sheet
-		(at 123.19 106.68)
+		(at 241.3 54.61)
 		(size 33.02 26.67)
 		(fields_autoplaced yes)
 		(stroke
@@ -142,7 +402,7 @@
 		)
 		(uuid "7b173924-1b78-4f9c-a21f-8ffedecf02bf")
 		(property "Sheetname" "power"
-			(at 123.19 105.9684 0)
+			(at 241.3 53.8984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -151,7 +411,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 123.19 133.9346 0)
+			(at 241.3 81.8646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -168,8 +428,8 @@
 		)
 	)
 	(sheet
-		(at 60.96 26.67)
-		(size 33.02 26.67)
+		(at 22.86 21.59)
+		(size 33.02 154.94)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -180,7 +440,7 @@
 		)
 		(uuid "95a2c5f2-1168-40e1-9976-12a9d3efcb94")
 		(property "Sheetname" "raspi"
-			(at 60.96 25.9584 0)
+			(at 22.86 20.8784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -189,7 +449,7 @@
 			)
 		)
 		(property "Sheetfile" "raspi.kicad_sch"
-			(at 60.96 53.9246 0)
+			(at 22.86 177.1146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -206,8 +466,8 @@
 		)
 	)
 	(sheet
-		(at 60.96 66.04)
-		(size 33.02 26.67)
+		(at 83.82 149.86)
+		(size 33.02 34.29)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -218,7 +478,7 @@
 		)
 		(uuid "b18c32a4-c727-4013-ad4f-289efcbafe2f")
 		(property "Sheetname" "sensors"
-			(at 60.96 65.3284 0)
+			(at 83.82 149.1484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -227,13 +487,83 @@
 			)
 		)
 		(property "Sheetfile" "sensors.kicad_sch"
-			(at 60.96 93.2946 0)
+			(at 83.82 184.7346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
 			)
+		)
+		(pin "IMU_CS" input
+			(at 83.82 166.37 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6a4ce2ee-53d0-4884-9aac-1cf8030a7dfa")
+		)
+		(pin "IMU_CLK" input
+			(at 83.82 163.83 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "122de6f7-d321-46b1-8598-9ba6ac7358cc")
+		)
+		(pin "IMU_INT" input
+			(at 83.82 168.91 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "f5fedf52-0576-4e18-b93c-d0ad20180df8")
+		)
+		(pin "BAR_CS" input
+			(at 83.82 177.8 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1cbf45f8-4bf2-4ac4-94e1-913ec2b67957")
+		)
+		(pin "MCU_SDO" input
+			(at 83.82 153.67 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fd3ff7ea-c358-4139-aa01-bbd25a875116")
+		)
+		(pin "MCU_SCLK" input
+			(at 83.82 158.75 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ad168657-5a36-484f-ad5f-1be862bb5e90")
+		)
+		(pin "MCU_SDI" input
+			(at 83.82 156.21 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "a5ffd7f2-7bdb-4f1c-ab66-7370bae333ef")
 		)
 		(instances
 			(project "moon_child"

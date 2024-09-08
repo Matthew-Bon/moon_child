@@ -3146,7 +3146,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "10K"
 			(at 226.06 81.2799 0)
 			(effects
 				(font
@@ -3217,7 +3217,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNP"
+		(property "Value" "10K"
 			(at 190.5 134.6199 0)
 			(effects
 				(font

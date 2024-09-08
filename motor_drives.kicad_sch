@@ -1545,7 +1545,7 @@
 		)
 		(uuid "8257dd9b-b0dd-41f0-ab84-8244aee174de")
 	)
-	(text "Motor Stall Current = 750mA\nDriver OverCurrent Limit = 739mA"
+	(text "Motor Stall Current = 750mA per motor\nDriver OverCurrent Limit = 739mA per driver\n"
 		(exclude_from_sim no)
 		(at 45.466 123.444 0)
 		(effects
