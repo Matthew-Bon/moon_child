@@ -266,7 +266,14 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(U6-QSPI_SCLK)": "QSPI_CLK",
+      "Net-(U6-QSPI_SD0)": "QSPI",
+      "Net-(U6-QSPI_SD1)": "QSPI",
+      "Net-(U6-QSPI_SD2)": "QSPI",
+      "Net-(U6-QSPI_SD3)": "QSPI",
+      "Net-(U6-QSPI_SS)": "QSPI"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {

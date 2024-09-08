@@ -4129,7 +4129,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f16529cf-b35f-46ce-a699-9762f3562c82")
 		(property "Reference" "FB1"
 			(at 71.882 176.53 90)

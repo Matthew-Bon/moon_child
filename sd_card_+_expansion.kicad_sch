@@ -2419,10 +2419,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9ae4a819-bb4d-4729-b93a-db28f020dbc7")
 		(property "Reference" "F4"
-			(at 30.48 41.91 90)
+			(at 33.782 46.736 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2498,7 +2497,7 @@
 			)
 		)
 		(property "Value" "Polyfuse_Small"
-			(at 224.536 53.594 90)
+			(at 194.056 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
