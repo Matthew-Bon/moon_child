@@ -5320,7 +5320,7 @@
 		(dnp no)
 		(uuid "2f0d0044-4dfe-4e7a-b490-a1a69d086d0c")
 		(property "Reference" "D12"
-			(at 32.004 92.964 0)
+			(at 29.21 94.996 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5329,7 +5329,7 @@
 			)
 		)
 		(property "Value" "SP0502BAHT"
-			(at 24.384 99.822 0)
+			(at 22.606 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5858,7 +5858,7 @@
 		(dnp no)
 		(uuid "4a51bf20-aaf3-4425-b680-45c5a95cf281")
 		(property "Reference" "D11"
-			(at 32.004 52.324 0)
+			(at 28.448 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5867,7 +5867,7 @@
 			)
 		)
 		(property "Value" "SP0502BAHT"
-			(at 24.384 59.182 0)
+			(at 22.352 55.626 0)
 			(effects
 				(font
 					(size 1.27 1.27)
