@@ -305,6 +305,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 71.12) (xy 83.82 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4c98de7-7369-4117-bb87-798eb95bbe79")
+	)
+	(wire
+		(pts
 			(xy 55.88 140.97) (xy 83.82 140.97)
 		)
 		(stroke
@@ -322,6 +332,16 @@
 			(type default)
 		)
 		(uuid "b62fbd36-9d65-4db2-a286-f6f88e90c6df")
+	)
+	(wire
+		(pts
+			(xy 55.88 68.58) (xy 83.82 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6bae112-5078-4e8a-90cf-c426a0aff095")
 	)
 	(wire
 		(pts
@@ -572,6 +592,26 @@
 				(justify left)
 			)
 			(uuid "8aa1f01b-cb4d-4230-b7ff-d92751d5f263")
+		)
+		(pin "DP+" bidirectional
+			(at 83.82 68.58 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "7cc045a5-50a9-4427-a340-cf2a21d797d2")
+		)
+		(pin "DP-" bidirectional
+			(at 83.82 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "768263ce-456c-4ab4-a3d1-f258f403fc16")
 		)
 		(instances
 			(project "moon_child"
@@ -1164,6 +1204,26 @@
 				(justify right)
 			)
 			(uuid "78f44598-c043-4399-ab05-bc87431a3265")
+		)
+		(pin "DP+" bidirectional
+			(at 55.88 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "66d20556-691d-4c82-942c-21dd8732dfd9")
+		)
+		(pin "DP-" bidirectional
+			(at 55.88 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "51b596a6-14f1-45ca-8fc6-583c0764cf03")
 		)
 		(instances
 			(project "moon_child"
