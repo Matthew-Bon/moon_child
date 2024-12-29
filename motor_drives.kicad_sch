@@ -1567,7 +1567,7 @@
 	)
 	(global_label "Motor1_-"
 		(shape input)
-		(at 64.77 95.25 0)
+		(at 64.77 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1577,7 +1577,7 @@
 		)
 		(uuid "0ad09a26-fd2e-4ab9-b979-4893f35be850")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.2156 95.25 0)
+			(at 74.2156 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1611,7 +1611,7 @@
 	)
 	(global_label "Motor0_+"
 		(shape input)
-		(at 60.96 54.61 0)
+		(at 60.96 57.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1621,7 +1621,7 @@
 		)
 		(uuid "19fab0d4-0725-40b1-b6e1-4da5b922659d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.4056 54.61 0)
+			(at 70.4056 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1655,7 +1655,7 @@
 	)
 	(global_label "Motor0_-"
 		(shape input)
-		(at 60.96 57.15 0)
+		(at 60.96 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1665,7 +1665,7 @@
 		)
 		(uuid "b1c0b280-3a99-4c1d-9e44-7d11fa46d605")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.4056 57.15 0)
+			(at 70.4056 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1699,7 +1699,7 @@
 	)
 	(global_label "Motor1_+"
 		(shape input)
-		(at 64.77 92.71 0)
+		(at 64.77 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1709,7 +1709,7 @@
 		)
 		(uuid "c7d123ca-7844-4505-81d2-6f088324b355")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 74.2156 92.71 0)
+			(at 74.2156 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
