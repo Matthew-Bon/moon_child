@@ -9962,7 +9962,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401610E4-2A_CircularHoles"
+		(property "Footprint" "GCT:GCT_USB4115-03-C_REVB4"
 			(at 259.08 132.08 0)
 			(effects
 				(font
