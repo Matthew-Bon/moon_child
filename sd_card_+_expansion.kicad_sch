@@ -1519,7 +1519,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 54.61) (xy 212.09 54.61)
+			(xy 208.28 54.61) (xy 223.52 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1886,16 +1886,6 @@
 			(type default)
 		)
 		(uuid "f3cf3b6f-0516-499d-a9b4-88275b42fe0c")
-	)
-	(wire
-		(pts
-			(xy 217.17 54.61) (xy 223.52 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f723630f-8ca7-41f2-8fd5-96cf6eafa837")
 	)
 	(text "Expansion Header"
 		(exclude_from_sim no)
@@ -2812,74 +2802,6 @@
 			(project "moon_child"
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/68da5adc-0b2d-4a3d-9dbd-3c9825249f40"
 					(reference "F4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Polyfuse_Small")
-		(at 214.63 54.61 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a28abafc-7851-46e3-873b-d480440b0055")
-		(property "Reference" "F3"
-			(at 211.074 53.594 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Polyfuse_Small"
-			(at 194.056 54.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
-			(at 219.71 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 214.63 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
-			(at 214.63 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "09d238d8-3b1d-4e10-956f-502fe9876335")
-		)
-		(pin "1"
-			(uuid "a1ad2936-05ba-4338-b8ed-8b1da19dbf63")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/68da5adc-0b2d-4a3d-9dbd-3c9825249f40"
-					(reference "F3")
 					(unit 1)
 				)
 			)
