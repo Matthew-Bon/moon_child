@@ -405,154 +405,6 @@
 				)
 			)
 		)
-		(symbol "Device:FerriteBead_Small"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "FB"
-				(at 1.905 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "FerriteBead_Small"
-				(at 1.905 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Ferrite bead, small symbol"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "L ferrite bead inductor filter"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "FerriteBead_Small_0_1"
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0 -0.7874)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0.889) (xy 0 1.2954)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "FerriteBead_Small_1_1"
-				(pin passive line
-					(at 0 2.54 270)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 1.27)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Device:LED"
 			(pin_numbers hide)
 			(pin_names
@@ -2146,12 +1998,6 @@
 		(uuid "00fc0c54-403f-4c82-a121-aa2a88aef5ad")
 	)
 	(junction
-		(at 60.96 175.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0bfa562b-3ef2-4868-b91b-820f00732d61")
-	)
-	(junction
 		(at 55.88 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2162,12 +2008,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "10c91438-22b6-4c68-ae2b-58db1fca600f")
-	)
-	(junction
-		(at 76.2 175.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1e141147-4120-45e2-8674-2822b612666c")
 	)
 	(junction
 		(at 114.3 49.53)
@@ -2477,7 +2317,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 175.26) (xy 60.96 175.26)
+			(xy 55.88 175.26) (xy 66.04 175.26)
 		)
 		(stroke
 			(width 0)
@@ -2567,16 +2407,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 175.26) (xy 66.04 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70493191-b885-467a-b070-0642bc09ca3f")
-	)
-	(wire
-		(pts
 			(xy 29.21 175.26) (xy 29.21 177.8)
 		)
 		(stroke
@@ -2624,16 +2454,6 @@
 			(type default)
 		)
 		(uuid "7b0a789e-9ce2-49e9-964e-815b93eec11d")
-	)
-	(wire
-		(pts
-			(xy 60.96 170.18) (xy 60.96 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95f316e8-1d66-46eb-bbe7-7d9130fb538d")
 	)
 	(wire
 		(pts
@@ -2694,16 +2514,6 @@
 			(type default)
 		)
 		(uuid "a8761eab-a727-4a05-89db-0ead617bdb51")
-	)
-	(wire
-		(pts
-			(xy 71.12 175.26) (xy 76.2 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa1f1f2f-e00d-4664-a34d-8006d15e4ee5")
 	)
 	(wire
 		(pts
@@ -2937,16 +2747,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 175.26) (xy 80.01 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddd01ec6-a699-4f1d-91e7-aeb7994d3567")
-	)
-	(wire
-		(pts
 			(xy 29.21 49.53) (xy 39.37 49.53)
 		)
 		(stroke
@@ -2954,16 +2754,6 @@
 			(type default)
 		)
 		(uuid "df4bf680-aae8-47ad-8dc3-2c70093336da")
-	)
-	(wire
-		(pts
-			(xy 76.2 170.18) (xy 76.2 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e34b23ba-f300-4033-9237-a2b8d408b507")
 	)
 	(wire
 		(pts
@@ -3007,7 +2797,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 170.18) (xy 76.2 170.18)
+			(xy 71.12 175.26) (xy 80.01 175.26)
 		)
 		(stroke
 			(width 0)
@@ -3024,16 +2814,6 @@
 			(type default)
 		)
 		(uuid "eff3007e-f7ef-43be-9e01-fbd701386127")
-	)
-	(wire
-		(pts
-			(xy 66.04 170.18) (xy 60.96 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0edb140-df23-429e-bae9-bebc44a21e1d")
 	)
 	(wire
 		(pts
@@ -3557,7 +3337,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small_US")
-		(at 68.58 170.18 270)
+		(at 68.58 175.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3565,7 +3345,7 @@
 		(dnp no)
 		(uuid "4d19463c-1d38-4a8a-a378-4ee8dbc3a409")
 		(property "Reference" "R16"
-			(at 66.548 172.212 90)
+			(at 66.548 177.292 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3573,7 +3353,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 71.12 172.466 90)
+			(at 71.12 177.546 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3581,7 +3361,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 68.58 170.18 0)
+			(at 68.58 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3590,7 +3370,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 170.18 0)
+			(at 68.58 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3599,7 +3379,7 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
-			(at 68.58 170.18 0)
+			(at 68.58 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5151,73 +4931,6 @@
 			(project "moon_child"
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/7b173924-1b78-4f9c-a21f-8ffedecf02bf"
 					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead_Small")
-		(at 68.58 175.26 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp yes)
-		(uuid "f16529cf-b35f-46ce-a699-9762f3562c82")
-		(property "Reference" "FB1"
-			(at 71.882 176.53 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DNP"
-			(at 68.326 178.816 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_2512_6332Metric"
-			(at 68.58 177.038 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 68.58 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ferrite bead, small symbol"
-			(at 68.58 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "082e0d3e-49d1-4730-9a31-e4edf69a6222")
-		)
-		(pin "1"
-			(uuid "6d3aa30c-16c4-4b20-805c-75d0531b7a35")
-		)
-		(instances
-			(project ""
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/7b173924-1b78-4f9c-a21f-8ffedecf02bf"
-					(reference "FB1")
 					(unit 1)
 				)
 			)
