@@ -3067,12 +3067,6 @@
 		(uuid "19be1b55-6967-4110-bdaf-4a86ef032652")
 	)
 	(junction
-		(at 156.21 163.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "213c3369-e089-4ef6-87ef-8ba5c7e50333")
-	)
-	(junction
 		(at 119.38 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3095,12 +3089,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b9ecf66-6d7e-4069-a5a0-97d2c22b6fda")
-	)
-	(junction
-		(at 156.21 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3d149ddf-21e9-4bf1-8eb6-0fcb43553bce")
 	)
 	(junction
 		(at 250.19 147.32)
@@ -3131,12 +3119,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "54341713-ba60-4211-8947-6f7443719895")
-	)
-	(junction
-		(at 152.4 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "56d1b025-2eac-46b5-8417-973a003c051d")
 	)
 	(junction
 		(at 148.59 158.75)
@@ -3257,12 +3239,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "939c28d3-e14b-4f27-8555-2f79f148f301")
-	)
-	(junction
-		(at 160.02 166.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9400dedd-1fb2-4b86-83e2-ce508acf06c2")
 	)
 	(junction
 		(at 69.85 184.15)
@@ -3415,6 +3391,10 @@
 		(uuid "32d16b76-34db-46fe-a320-8b17e4667606")
 	)
 	(no_connect
+		(at 160.02 163.83)
+		(uuid "5e92a48b-fbff-4071-b4ea-cf20100c3ef4")
+	)
+	(no_connect
 		(at 151.13 143.51)
 		(uuid "70728249-3af1-4898-ad93-96f3c3c22ed8")
 	)
@@ -3449,6 +3429,10 @@
 	(no_connect
 		(at 151.13 133.35)
 		(uuid "dededd57-7009-4fa3-97b8-29de22d869d2")
+	)
+	(no_connect
+		(at 160.02 166.37)
+		(uuid "fc81752e-f98e-4057-8604-551231447a40")
 	)
 	(wire
 		(pts
@@ -4262,16 +4246,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 163.83) (xy 156.21 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4da8c53f-e7ab-4dd2-b802-5822a4716e35")
-	)
-	(wire
-		(pts
 			(xy 26.67 184.15) (xy 33.02 184.15)
 		)
 		(stroke
@@ -4862,16 +4836,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 190.5) (xy 156.21 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "83ec149e-4c43-4edc-a120-2908521c84be")
-	)
-	(wire
-		(pts
 			(xy 144.78 138.43) (xy 149.86 138.43)
 		)
 		(stroke
@@ -5092,16 +5056,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 187.96) (xy 156.21 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9392dca1-0ea5-42c0-897f-7961da94a39c")
-	)
-	(wire
-		(pts
 			(xy 144.78 85.09) (xy 151.13 85.09)
 		)
 		(stroke
@@ -5142,17 +5096,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 190.5) (xy 160.02 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98144a52-8fe2-42f6-a642-70d2726d15af")
-	)
-	(wire
-		(pts
-			(xy 144.78 163.83) (xy 156.21 163.83)
+			(xy 144.78 163.83) (xy 160.02 163.83)
 		)
 		(stroke
 			(width 0)
@@ -5442,16 +5386,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 163.83) (xy 160.02 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aff95604-e8e2-478e-a1bb-753723b80650")
-	)
-	(wire
-		(pts
 			(xy 148.59 190.5) (xy 152.4 190.5)
 		)
 		(stroke
@@ -5499,26 +5433,6 @@
 			(type default)
 		)
 		(uuid "b152d14e-7d6e-4ce8-a076-6dfd523f5682")
-	)
-	(wire
-		(pts
-			(xy 160.02 166.37) (xy 160.02 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b2974ed1-8f97-42e4-bf08-3b10c7acbadc")
-	)
-	(wire
-		(pts
-			(xy 165.1 166.37) (xy 170.18 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4f43bb6-df06-4cc4-81cc-4b1ba612e1f6")
 	)
 	(wire
 		(pts
@@ -5719,16 +5633,6 @@
 			(type default)
 		)
 		(uuid "c93bebec-9d85-4b3c-8436-7672357967c1")
-	)
-	(wire
-		(pts
-			(xy 156.21 190.5) (xy 160.02 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c9886787-6a6e-436a-a6e0-cda6225c8daa")
 	)
 	(wire
 		(pts
@@ -6259,16 +6163,6 @@
 			(type default)
 		)
 		(uuid "f1c2897e-b2ff-4b80-b1a8-5720ca658cb8")
-	)
-	(wire
-		(pts
-			(xy 165.1 163.83) (xy 170.18 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f463f657-0aa5-47ce-a192-6380696224df")
 	)
 	(wire
 		(pts
@@ -7886,72 +7780,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 170.18 163.83 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0ff5adfc-edef-487d-bf00-f10653d9ec75")
-		(property "Reference" "TP30"
-			(at 172.974 162.814 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "ADC_2"
-			(at 180.594 164.084 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 170.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 170.18 168.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 170.18 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "22e9527b-cb82-4b51-98fb-905300841f92")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "TP30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 151.13 90.17 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8225,72 +8053,6 @@
 			(project ""
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
 					(reference "J9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 170.18 166.37 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "24088a22-7af3-40c6-8bb6-c281ada71566")
-		(property "Reference" "TP31"
-			(at 172.72 165.354 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "ADC_3"
-			(at 176.022 168.148 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 170.18 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 170.18 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 170.18 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7298266f-d768-407c-b871-85a09902a440")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "TP31")
 					(unit 1)
 				)
 			)
@@ -9137,75 +8899,6 @@
 			(project "moon_child"
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
 					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 162.56 163.83 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4baf1b04-0460-4c70-9c38-ff13529155ea")
-		(property "Reference" "R45"
-			(at 160.782 162.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10K"
-			(at 167.64 162.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 162.56 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 162.56 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 162.56 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5c684cf4-0a02-4ed6-82db-da7f516d82f1")
-		)
-		(pin "1"
-			(uuid "0d503905-e338-48d9-b618-199fb5a85d18")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -10789,75 +10482,6 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 156.21 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9b0c295b-e7a2-4289-a73f-992e6970425c")
-		(property "Reference" "C33"
-			(at 152.4 183.642 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1.6nF"
-			(at 142.748 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 156.21 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 156.21 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 156.21 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e579065b-087f-4da2-869e-a7ccf8795468")
-		)
-		(pin "1"
-			(uuid "a77e6829-7398-4443-8b63-044fc4cc9c75")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "C33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
 		(at 66.04 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11325,75 +10949,6 @@
 			(project "moon_child"
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
 					(reference "TP26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 162.56 166.37 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "aae2f038-48ce-483a-ac3d-2ce6cceba962")
-		(property "Reference" "R46"
-			(at 160.782 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10K"
-			(at 167.64 165.1 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 162.56 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 162.56 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 162.56 166.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "dc114b96-7c32-4715-8794-8e64b5a40dda")
-		)
-		(pin "1"
-			(uuid "f87213b8-3dd8-4027-ab87-2227fa2a1141")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -12591,75 +12146,6 @@
 			(project ""
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 160.02 185.42 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d4c2fc03-ddc9-4cc4-9758-140fe8773fad")
-		(property "Reference" "C34"
-			(at 156.21 183.642 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1.6nF"
-			(at 162.306 187.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 160.02 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 160.02 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 160.02 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c9e9e74d-a1c4-4699-ab98-b09940fd19ff")
-		)
-		(pin "1"
-			(uuid "5d0b5950-f805-42a9-85a1-3a3f1225e640")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "C34")
 					(unit 1)
 				)
 			)

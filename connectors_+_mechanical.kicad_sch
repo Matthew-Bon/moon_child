@@ -3584,12 +3584,6 @@
 		(uuid "06615f7a-4e52-4262-b06b-0dc46043db30")
 	)
 	(junction
-		(at 137.16 35.56)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "113ce59d-08d9-4a82-8b7f-7751e5b24d3d")
-	)
-	(junction
 		(at 127 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3834,12 +3828,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f5027537-e711-4c27-ad67-721e7dc9530e")
-	)
-	(junction
-		(at 142.24 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f58c21c6-4ead-40f4-9d00-2a2d8d110252")
 	)
 	(junction
 		(at 161.29 138.43)
@@ -4144,16 +4132,6 @@
 			(type default)
 		)
 		(uuid "2b4941c0-a7cd-40f5-837f-4005042ad82f")
-	)
-	(wire
-		(pts
-			(xy 142.24 29.21) (xy 142.24 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b7213a3-f047-491b-8d03-32c5a2520355")
 	)
 	(wire
 		(pts
@@ -4487,7 +4465,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 35.56) (xy 137.16 35.56)
+			(xy 134.62 35.56) (xy 152.4 35.56)
 		)
 		(stroke
 			(width 0)
@@ -4554,16 +4532,6 @@
 			(type default)
 		)
 		(uuid "65839c24-a327-450e-9492-822ee6295630")
-	)
-	(wire
-		(pts
-			(xy 137.16 35.56) (xy 152.4 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6684453f-f5dc-470b-83c7-7446198e98be")
 	)
 	(wire
 		(pts
@@ -5047,7 +5015,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 38.1) (xy 152.4 38.1)
+			(xy 139.7 38.1) (xy 152.4 38.1)
 		)
 		(stroke
 			(width 0)
@@ -5267,16 +5235,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 29.21) (xy 137.16 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ca3ed287-6a19-4c2b-8713-55c71c1e1b22")
-	)
-	(wire
-		(pts
 			(xy 231.14 129.54) (xy 238.76 129.54)
 		)
 		(stroke
@@ -5314,16 +5272,6 @@
 			(type default)
 		)
 		(uuid "d24af603-6858-4c3a-90ae-144805d03922")
-	)
-	(wire
-		(pts
-			(xy 139.7 38.1) (xy 142.24 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d292b1ce-aa2b-4609-ad03-0e3ae0eca3fa")
 	)
 	(wire
 		(pts
@@ -7339,72 +7287,6 @@
 			(project "moon_child"
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/2020c3b7-5d3f-4410-b013-36b6a2638d7a"
 					(reference "TP22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 137.16 29.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5a9164f0-2c29-4180-a995-017c1973eef9")
-		(property "Reference" "TP9"
-			(at 131.572 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GPS_RX"
-			(at 127.762 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 142.24 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 137.16 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "90e8a74d-49a9-4ee5-9aa4-8618ce13c446")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/2020c3b7-5d3f-4410-b013-36b6a2638d7a"
-					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -10288,72 +10170,6 @@
 			(project ""
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/2020c3b7-5d3f-4410-b013-36b6a2638d7a"
 					(reference "R52")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 142.24 29.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e011400c-71fc-435d-b9cf-4d8a449a99be")
-		(property "Reference" "TP10"
-			(at 138.176 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "GPS_TX"
-			(at 144.018 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 147.32 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 142.24 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dca04eb7-f101-4476-9cfb-4a4c4cfa042f")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/2020c3b7-5d3f-4410-b013-36b6a2638d7a"
-					(reference "TP10")
 					(unit 1)
 				)
 			)
