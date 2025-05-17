@@ -3379,6 +3379,10 @@
 		(uuid "fe666747-f205-4ca0-92e3-f31ff04948a7")
 	)
 	(no_connect
+		(at 151.13 85.09)
+		(uuid "1279b6ed-732d-41e5-add5-48a431b615ff")
+	)
+	(no_connect
 		(at 151.13 146.05)
 		(uuid "1a5a9386-9f45-43b1-b080-9ef1fe49b43b")
 	)
@@ -3403,6 +3407,10 @@
 		(uuid "8dc344d7-8b1f-40f3-adf6-fd187e662164")
 	)
 	(no_connect
+		(at 151.13 90.17)
+		(uuid "9d31b234-fa0c-4d54-a820-5067061cfc32")
+	)
+	(no_connect
 		(at 69.85 95.25)
 		(uuid "a144b7d1-c6b3-48ef-8b96-08ebd25fe3ff")
 	)
@@ -3421,6 +3429,10 @@
 	(no_connect
 		(at 147.32 173.99)
 		(uuid "ccfd40a2-fb32-41a0-bcb0-ab2602f8501a")
+	)
+	(no_connect
+		(at 151.13 87.63)
+		(uuid "d3893cc2-72fe-4ec1-b1ea-f4e3d7990d3f")
 	)
 	(no_connect
 		(at 147.32 168.91)
@@ -7779,72 +7791,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 151.13 90.17 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "14484367-4250-47bd-883c-3fe780a7f111")
-		(property "Reference" "TP34"
-			(at 153.67 89.154 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Spare"
-			(at 161.798 89.916 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 151.13 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 151.13 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "43176964-e6e5-43ac-993c-3fdcf5a1c354")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "TP34")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_Small_US")
 		(at 30.48 148.59 270)
 		(mirror x)
@@ -8681,72 +8627,6 @@
 			(project ""
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
 					(reference "R56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 151.13 85.09 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "48965b09-a591-46f1-ad47-45813e61df24")
-		(property "Reference" "TP32"
-			(at 153.67 84.074 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Spare"
-			(at 161.798 85.09 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 151.13 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 151.13 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "97e4f1eb-3db0-49f1-bf60-1a238dad97f2")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "TP32")
 					(unit 1)
 				)
 			)
@@ -12146,72 +12026,6 @@
 			(project ""
 				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 151.13 87.63 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d7c5dbf3-8b7c-48f8-9a93-7229478ef09f")
-		(property "Reference" "TP33"
-			(at 153.67 86.614 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Spare"
-			(at 161.798 87.63 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
-			(at 151.13 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 151.13 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d38248d0-e539-48e3-85ce-dfabb48c594d")
-		)
-		(instances
-			(project "moon_child"
-				(path "/9fe08eae-9310-46cf-b272-eac4209a7b3e/95a2c5f2-1168-40e1-9976-12a9d3efcb94"
-					(reference "TP33")
 					(unit 1)
 				)
 			)
