@@ -8736,7 +8736,7 @@
 				)
 			)
 		)
-		(property "Value" "16Mbit PSRAM"
+		(property "Value" "IS25LP040E-JNLE-TR"
 			(at 252.476 114.3 0)
 			(effects
 				(font
@@ -11850,7 +11850,7 @@
 				)
 			)
 		)
-		(property "Value" "16Mbit PSRAM"
+		(property "Value" "IS25LP040E-JNLE-TR"
 			(at 38.354 85.09 0)
 			(effects
 				(font
