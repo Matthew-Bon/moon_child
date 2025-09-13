@@ -6341,7 +6341,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "025b9fb5-731e-4164-bb6a-13f654d6a915")
 		(property "Reference" "FID1"
@@ -6405,7 +6405,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0f897a7d-4a56-40bc-a290-15f3d005d88d")
 		(property "Reference" "TP21"
 			(at 30.48 57.404 0)
@@ -6471,7 +6471,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "13197e1d-9e4d-4a57-98f0-b06a097fc8a6")
 		(property "Reference" "TP25"
 			(at 52.324 61.722 0)
@@ -6584,6 +6584,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0ZCJ0025FF2E"
+			(at 109.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "1206"
+			(at 109.22 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b0c690cc-aa37-4f8e-9d7f-dec6e355de6b")
 		)
@@ -6606,7 +6624,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "15458dbb-4130-4c11-9fc1-859e441f17b4")
 		(property "Reference" "J5"
@@ -6730,6 +6748,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-07100KL"
+			(at 88.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 88.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3b5aa0c3-f8cb-4759-8acb-a152a4525fc0")
 		)
@@ -6790,6 +6826,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 132.08 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "1206"
+			(at 132.08 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RL1206FR-070R08L"
 			(at 132.08 129.54 0)
 			(effects
 				(font
@@ -6885,7 +6939,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "36b4f463-3fa2-4071-9bf0-15b1b2414b86")
 		(property "Reference" "TP19"
 			(at 50.038 25.146 0)
@@ -7064,6 +7118,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402JR-07100KL"
+			(at 69.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 69.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "93ca44a0-89c0-434b-b976-cf18bc159d0d")
 		)
@@ -7086,7 +7158,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "40258a23-4c4a-4223-adbb-a78810095241")
 		(property "Reference" "FID6"
@@ -7198,6 +7270,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ESDA6V1BC6"
+			(at 236.22 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6"
+			(at 236.22 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "6907c7a6-ad03-42c9-950d-be5d67f26e03")
 		)
@@ -7272,6 +7362,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 114.3 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 114.3 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-072K2L"
 			(at 114.3 135.89 0)
 			(effects
 				(font
@@ -7367,7 +7475,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4bfa736a-0692-4e79-8dac-cb1c185b182a")
 		(property "Reference" "TP22"
 			(at 37.338 57.404 0)
@@ -7479,6 +7587,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BM04B-SRSS-TB"
+			(at 20.32 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4786306c-aa7c-485f-abbb-e6da2965c00f")
 		)
@@ -7573,7 +7690,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "63978e92-ea2b-4008-8102-753635a7c40f")
 		(property "Reference" "TP18"
 			(at 43.688 21.59 0)
@@ -7704,7 +7821,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "70f84fea-b507-4527-bd44-fe92bf4b1420")
 		(property "Reference" "TP11"
 			(at 124.206 62.23 0)
@@ -7770,7 +7887,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "72e03bf4-0731-4403-a4be-1b5d65143a2e")
 		(property "Reference" "FID2"
@@ -7964,7 +8081,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7b7f3eaa-4e7d-4cb4-bdea-4b05959add04")
 		(property "Reference" "TP15"
 			(at 28.702 24.13 0)
@@ -8077,6 +8194,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0ZCJ0050AF2E"
+			(at 241.3 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "1206"
+			(at 241.3 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "16af4e93-fa9a-4c0e-80fe-f9049fd88b47")
 		)
@@ -8139,6 +8274,24 @@
 			)
 		)
 		(property "Description" "Quad bidirectional transil, Suppressor for ESD protection, 5V Standoff, 4 Channels, SOT-23-6"
+			(at 39.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESDA6V1BC6"
+			(at 39.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6"
 			(at 39.37 92.71 0)
 			(effects
 				(font
@@ -8248,7 +8401,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8fcde7f2-6085-4756-b479-176a4d84c93e")
 		(property "Reference" "TP8"
 			(at 99.822 123.19 0)
@@ -8361,6 +8514,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BM06B-SRSS-TB"
+			(at 25.4 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b3eb226-b976-4dc2-8047-e4bd47a30432")
 		)
@@ -8395,7 +8557,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "984dda58-346e-455f-8428-beb32c5964e4")
 		(property "Reference" "FID3"
@@ -8571,6 +8733,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BM04B-SRSS-TB"
+			(at 20.32 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8bf39da-3826-466c-9c65-c16cd7577b32")
 		)
@@ -8599,7 +8770,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9e7d6427-fdfd-431a-9bb0-9004a337cf63")
 		(property "Reference" "J6"
@@ -8722,6 +8893,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "MBR0530T1G"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-123"
+			(at 116.84 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3b67ba60-74bf-442c-b46d-792c6e51feab")
 		)
@@ -8783,6 +8972,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 25.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "BM06B-SRSS-TB"
 			(at 25.4 38.1 0)
 			(effects
 				(font
@@ -8864,6 +9062,24 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient, small symbol"
+			(at 52.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MF-NSML200/12-2"
+			(at 52.07 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "1206"
 			(at 52.07 129.54 0)
 			(effects
 				(font
@@ -9036,7 +9252,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "320K"
+		(property "Value" "324K"
 			(at 91.44 135.8899 0)
 			(effects
 				(font
@@ -9072,6 +9288,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 88.9 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07324KL"
+			(at 88.9 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae281cf6-26ef-48c2-9e33-ddf501f427e3")
 		)
@@ -9094,7 +9328,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "b77fc83a-ebba-40cf-b515-39c6fe88b703")
 		(property "Reference" "FID4"
@@ -9206,6 +9440,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "LTST-C190KFKT"
+			(at 57.15 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 57.15 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "535081f4-a869-411c-bf45-ef18eb6a384d")
 		)
@@ -9294,7 +9546,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c16756fa-a610-4d5b-8f6a-931f442bfcc3")
 		(property "Reference" "TP13"
 			(at 136.652 62.738 0)
@@ -9360,7 +9612,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c21d3777-33b2-4a96-bc35-428edbccb2a3")
 		(property "Reference" "FID5"
@@ -9472,6 +9724,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ESDA6V1BC6"
+			(at 137.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6"
+			(at 137.16 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "726c9310-000b-412b-abee-c2135307e027")
 		)
@@ -9546,6 +9816,24 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 114.3 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LTST-C190KFKT"
+			(at 114.3 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 114.3 144.78 0)
 			(effects
 				(font
@@ -9688,6 +9976,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "INA180A1IDBVR"
+			(at 163.83 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-5"
+			(at 163.83 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e00fc698-6511-45cb-a1ff-49fd4953c66d")
 		)
@@ -9759,6 +10065,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 151.13 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
 			(at 151.13 62.23 0)
 			(effects
 				(font
@@ -9844,6 +10168,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BSP613PH6327XTSA1"
+			(at 69.85 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT223-4"
+			(at 69.85 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae35d115-5c3f-437f-9009-fcc4da117aa6")
 		)
@@ -9872,7 +10214,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d29d6135-e55f-49a2-8c8f-60f8a1a2915f")
 		(property "Reference" "TP16"
 			(at 34.036 24.13 0)
@@ -10003,7 +10345,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d449c6cd-c7f9-4a0f-9684-50de299490de")
 		(property "Reference" "TP24"
 			(at 44.958 57.404 0)
@@ -10126,6 +10468,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BZT52C15S-7-F"
+			(at 77.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOD-323"
+			(at 77.47 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f3ac0dee-888c-4ce9-8e1f-350bcf87a5e7")
 		)
@@ -10148,7 +10508,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "dbb26e40-0d54-4dfe-9277-7372603e6e27")
 		(property "Reference" "TP7"
 			(at 51.308 135.89 0)
@@ -10262,6 +10622,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "USB4115-03-C"
+			(at 262.89 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B5"
 			(uuid "cdf1e76f-c027-418e-b8dc-aeda24f582a2")
 		)
@@ -10360,6 +10729,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 241.3 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
 			(at 241.3 121.92 0)
 			(effects
 				(font
@@ -10504,6 +10882,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 57.15 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-072K2L"
+			(at 57.15 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "65bb3ffa-b3d1-4496-8be5-a2f19dc3edc4")
 		)
@@ -10563,6 +10959,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 241.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
 			(at 241.3 124.46 0)
 			(effects
 				(font
@@ -10641,6 +11046,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10B105KP8NNNC"
+			(at 165.1 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 165.1 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "862ddfaf-48cc-49a1-8324-a48e04bbd8a4")
 		)
@@ -10663,7 +11086,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f53491b2-2363-4dff-8345-060835b585cc")
 		(property "Reference" "D7"
@@ -10719,6 +11142,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 71.12 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "S1J-13-F"
+			(at 71.12 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMA"
 			(at 71.12 118.11 0)
 			(effects
 				(font
@@ -10814,7 +11255,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f74b96bb-a05e-4077-a980-5c741e1f148d")
 		(property "Reference" "TP14"
 			(at 142.748 62.23 0)
@@ -10945,7 +11386,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f8ea7667-aa9d-4464-90c1-a8bbb44e52cc")
 		(property "Reference" "TP12"
 			(at 130.302 62.484 0)
@@ -11051,6 +11492,24 @@
 			)
 		)
 		(property "Description" "Quad bidirectional transil, Suppressor for ESD protection, 5V Standoff, 4 Channels, SOT-23-6"
+			(at 134.62 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ESDA6V1BC6"
+			(at 134.62 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-6"
 			(at 134.62 92.71 0)
 			(effects
 				(font

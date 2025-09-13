@@ -7659,6 +7659,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 60.96 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0733RL"
+			(at 60.96 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bee4b041-ce23-45fb-90e3-af80967012d4")
 		)
@@ -7728,6 +7746,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 64.77 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 64.77 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "563ff31b-f155-47eb-8b71-f146ade1fa7d")
 		)
@@ -7787,6 +7823,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 157.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 157.48 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0722RL"
 			(at 157.48 44.45 0)
 			(effects
 				(font
@@ -7863,6 +7917,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dfa6cbb3-15ab-4795-9c10-9edbd5e45075")
 		)
@@ -7885,7 +7948,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "16e60db6-5a94-4aec-b2b3-a2148f4bf394")
 		(property "Reference" "J8"
@@ -8006,6 +8069,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "BM03B-SRSS-TB"
+			(at 20.32 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb2a6c31-ea73-404a-9824-44563115e623")
 		)
@@ -8085,6 +8157,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "TFM252012ALMA3R3MTAA"
+			(at 69.85 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "1008"
+			(at 69.85 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "653cb8ee-652f-4729-a5bc-730dea3c60a7")
 		)
@@ -8146,6 +8236,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 30.48 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
 			(at 30.48 143.51 0)
 			(effects
 				(font
@@ -8221,6 +8320,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ASE-12.000MHZ-L-C-T"
+			(at 33.02 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "4-SMD (3.2x2.5)"
+			(at 33.02 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "18e3e8ca-0a00-49de-9009-6cb1d34b4dfe")
 		)
@@ -8249,7 +8366,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cbc9fe5-9eec-4d86-a90e-2f937e8bf796")
 		(property "Reference" "C29"
@@ -8289,6 +8406,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 250.19 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B102KB8NNNC"
+			(at 250.19 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 250.19 152.4 0)
 			(effects
 				(font
@@ -8431,6 +8566,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "B3FS-1002P"
+			(at 264.16 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3085cbad-c825-4f53-b2e2-dc0aa76c9733")
 		)
@@ -8492,6 +8636,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 33.02 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 33.02 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 33.02 187.96 0)
 			(effects
 				(font
@@ -8570,6 +8732,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 267.97 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 267.97 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "def25e3e-6faf-4de9-9306-44f481253f93")
 		)
@@ -8629,6 +8809,15 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 264.16 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
 			(at 264.16 64.77 0)
 			(effects
 				(font
@@ -8771,6 +8960,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "IS25LP040E-JNLE-TR"
+			(at 252.73 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 252.73 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "59e381ce-7882-455e-bc26-879394f2566f")
 		)
@@ -8858,6 +9065,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10B473KO8NNNC"
+			(at 147.32 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 147.32 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02c200b5-eea2-4650-831d-d1f518463eb6")
 		)
@@ -8921,6 +9146,24 @@
 			)
 		)
 		(property "Description" "NPN transistor, base/collector/emitter"
+			(at 254 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MMBT3904-7-F"
+			(at 254 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-3"
 			(at 254 64.77 0)
 			(effects
 				(font
@@ -9001,6 +9244,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0603"
+			(at 26.67 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 26.67 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81050f2f-9999-471c-b1b5-103f9badd8e3")
 		)
@@ -9062,6 +9323,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 236.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 236.22 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
 			(at 236.22 91.44 0)
 			(effects
 				(font
@@ -9139,6 +9418,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "GRM1885C1H162JA01D"
+			(at 152.4 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 152.4 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a6d8eced-5511-471a-9831-61ad206ad15d")
 		)
@@ -9200,6 +9497,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 54.61 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 54.61 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 54.61 187.96 0)
 			(effects
 				(font
@@ -9277,6 +9592,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "GRM1885C1H162JA01D"
+			(at 148.59 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 148.59 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8cd00bd3-838f-4a7c-84e0-1f914862e54e")
 		)
@@ -9299,7 +9632,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5404134d-219a-41de-b772-e724e3a9aeba")
 		(property "Reference" "TP23"
 			(at 164.338 37.338 0)
@@ -9412,6 +9745,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 69.85 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 69.85 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2fff1f04-a562-4dbf-a947-3e1a92479549")
 		)
@@ -9481,6 +9832,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0805"
+			(at 67.31 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 67.31 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "326885cb-6cea-4bf1-ac7b-aba7373579a2")
 		)
@@ -9542,6 +9911,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 39.37 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 39.37 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 39.37 187.96 0)
 			(effects
 				(font
@@ -9685,6 +10072,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 62.23 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 62.23 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f2cc987a-b286-4af6-9bcc-f4ee5808d92f")
 		)
@@ -9746,6 +10151,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 46.99 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 46.99 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 46.99 187.96 0)
 			(effects
 				(font
@@ -9824,6 +10247,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 251.46 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
+			(at 251.46 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9992356-69a2-4ac1-b830-7e64ce5bd371")
 		)
@@ -9886,6 +10327,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 133.35 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A225KO8NNNC"
+			(at 133.35 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 133.35 25.4 0)
 			(effects
 				(font
@@ -9963,6 +10422,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 21.59 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
+			(at 21.59 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "647b89e5-58f6-48ec-b43d-c51a4eff180b")
 		)
@@ -10024,6 +10501,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 77.47 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 77.47 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 77.47 187.96 0)
 			(effects
 				(font
@@ -10233,6 +10728,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0603"
+			(at 74.93 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 74.93 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cc97f9d0-60b6-453b-b5ef-83cca96edc14")
 		)
@@ -10292,6 +10805,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 243.84 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 243.84 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
 			(at 243.84 19.05 0)
 			(effects
 				(font
@@ -10434,6 +10965,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 66.04 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fb8c400e-3b0a-4b27-9592-ab532bdd3202")
 		)
@@ -10503,6 +11052,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 162.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
+			(at 162.56 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "69712ae2-b5c6-41c7-adc4-27b53b835602")
 		)
@@ -10564,6 +11131,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 152.4 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B473KO8NNNC"
+			(at 152.4 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 152.4 50.8 0)
 			(effects
 				(font
@@ -10773,6 +11358,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 139.7 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "03478e90-756e-4567-8996-5f57e241de5e")
 		)
@@ -10795,7 +11389,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "a86485ee-454a-47d8-8db8-9af8e2a552cd")
 		(property "Reference" "TP26"
 			(at 165.1 50.292 0)
@@ -10898,6 +11492,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 243.84 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 243.84 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
 			(at 243.84 21.59 0)
 			(effects
 				(font
@@ -11039,6 +11651,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 157.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0722RL"
+			(at 157.48 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba857b27-b215-4f52-91dc-7a3be98f0783")
 		)
@@ -11108,6 +11738,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0603"
+			(at 20.32 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 20.32 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f3cab212-99d4-4ce6-8215-9261fc9c61bf")
 		)
@@ -11169,6 +11817,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 81.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 81.28 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
 			(at 81.28 22.86 0)
 			(effects
 				(font
@@ -11445,6 +12111,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 250.19 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
+			(at 250.19 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b2f6496d-571d-4f82-866c-396604d45501")
 		)
@@ -11574,6 +12258,24 @@
 		)
 		(property "Description" ""
 			(at 109.22 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SC1510-A4"
+			(at 110.49 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "QFN80"
+			(at 110.49 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11885,6 +12587,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 38.1 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "IS25LP040E-JNLE-TR"
+			(at 38.1 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "3f23b0c4-3eb0-46ea-b6e3-66e47194dccb")
 		)
@@ -12123,7 +12843,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d9a33b11-ada8-4406-8d2b-aca2e1ca7000")
 		(property "Reference" "TP28"
 			(at 236.474 151.638 0)
@@ -12234,6 +12954,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 243.84 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
+			(at 243.84 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "20324956-8a75-45c1-adbf-9f14e5173db0")
 		)
@@ -12296,6 +13034,24 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 38.1 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 38.1 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 38.1 93.98 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12372,6 +13128,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 22.86 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 22.86 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d9538d1a-d1ec-4f2f-afef-d2db7a1d6d77")
 		)
@@ -12433,6 +13207,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 54.61 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 54.61 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
 			(at 54.61 62.23 0)
 			(effects
 				(font
@@ -12573,6 +13365,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 243.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
+			(at 243.84 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e3115f0f-05d2-4b4b-a648-61a42283c87e")
 		)
@@ -12642,6 +13452,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 162.56 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
+			(at 162.56 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8bb2bb05-53d0-416f-8a6d-5601d807a8df")
 		)
@@ -12703,6 +13531,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 53.34 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21A475KAQNNNE"
+			(at 53.34 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
 			(at 53.34 40.64 0)
 			(effects
 				(font

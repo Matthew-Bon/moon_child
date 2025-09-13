@@ -3253,6 +3253,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 55.88 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 55.88 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "79df3f8f-f587-4e6c-83b3-48b249a72bbf")
 		)
@@ -3312,6 +3330,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 106.68 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 106.68 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RT0402FRE0731K6L"
 			(at 106.68 53.34 0)
 			(effects
 				(font
@@ -3387,6 +3423,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 68.58 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
+			(at 68.58 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88ccfb0b-95d7-4459-9753-8de7cc5b5e0a")
 		)
@@ -3446,6 +3500,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 92.71 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL05B104KP5NNNC"
+			(at 92.71 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
 			(at 92.71 52.07 0)
 			(effects
 				(font
@@ -3590,6 +3662,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A226MAYNNNE"
+			(at 121.92 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 121.92 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "422a36a2-ef74-4f17-8cac-3e405327f522")
 		)
@@ -3649,6 +3739,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 114.3 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 114.3 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "ERJ-6DSFR10V"
 			(at 114.3 53.34 0)
 			(effects
 				(font
@@ -3727,6 +3835,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "LTST-C190KFKT"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 27.94 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d7a9bd7-662f-4f6d-a2d3-e12e8136a77e")
 		)
@@ -3786,6 +3912,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 60.96 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 60.96 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
 			(at 60.96 54.61 0)
 			(effects
 				(font
@@ -3862,6 +4006,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "SRP5030TA-2R2M"
+			(at 100.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35cfef44-623a-42d0-8834-028dec8edca3")
 		)
@@ -3884,7 +4037,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8c96a48e-c5ba-4c6a-9e68-fb21f4e4aac2")
 		(property "Reference" "TP17"
 			(at 74.422 168.91 0)
@@ -3997,6 +4150,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 27.94 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b706efff-08c9-4e3d-8ac1-ec27aa9b6e5c")
 		)
@@ -4058,6 +4220,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 29.21 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 29.21 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 29.21 180.34 0)
 			(effects
 				(font
@@ -4136,6 +4316,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A226MAYNNNE"
+			(at 114.3 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 114.3 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf84b6bb-f8fa-438a-b5cf-86882bc2b417")
 		)
@@ -4206,6 +4404,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A106KOQNNNE"
+			(at 48.26 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 48.26 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "63eff3bf-4158-464c-90ef-a11d24e3e56e")
 		)
@@ -4266,6 +4482,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 78.74 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "AP62250Z6-7"
+			(at 78.74 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-563"
 			(at 78.74 52.07 0)
 			(effects
 				(font
@@ -4345,6 +4579,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 106.68 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 106.68 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-0710KL"
 			(at 106.68 63.5 0)
 			(effects
 				(font
@@ -4490,6 +4742,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 130.81 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402JR-071KL"
+			(at 130.81 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb21438b-7d8b-4aef-8b2b-f08ea01a1867")
 		)
@@ -4552,6 +4822,24 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 130.81 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "LTST-C190KFKT"
+			(at 130.81 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
 			(at 130.81 63.5 0)
 			(effects
 				(font
@@ -4638,6 +4926,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 33.02 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "S1J-13-F"
+			(at 33.02 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SMA"
 			(at 33.02 68.58 0)
 			(effects
 				(font
@@ -4781,6 +5087,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "0603USB-222MLC"
+			(at 44.45 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "0b314b3a-dc07-44f1-a527-0c4a0f6c274f")
 		)
@@ -4846,6 +5161,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 44.45 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 44.45 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
 			(at 44.45 185.42 0)
 			(effects
 				(font
@@ -4943,7 +5276,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "faf8749a-cf0a-4412-b825-6ca0a719e235")
 		(property "Reference" "TP20"
 			(at 74.422 179.07 0)

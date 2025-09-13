@@ -58,7 +58,41 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "annular_width|156850000|113685000|4ec32762-76cb-43d9-8759-098f6c6aaf87|00000000-0000-0000-0000-000000000000",
+        "annular_width|156850000|117985000|6d158303-3383-4bdf-8c5c-52073b23e6a7|00000000-0000-0000-0000-000000000000",
+        "annular_width|161650000|113685000|575d6d11-de81-4c68-92d6-b20128931536|00000000-0000-0000-0000-000000000000",
+        "annular_width|161650000|117985000|50001942-7386-40e3-a5b1-d9e4bfa5db1f|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|158575000|101000000|3f583608-ce45-4d3e-ab84-d7c66bcff81b|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|158575000|101850000|e6f7be80-5e57-4a1c-9c16-1861af3ac724|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|158575000|102700000|01b4918b-243e-4097-9a06-aa937038bba6|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|159425000|101000000|57a078a0-daf6-483c-9c4b-ed34c7cf5545|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|159425000|101850000|480f50c1-d0a8-4335-8c83-f8f8cc79c4f6|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|159425000|102700000|51aab80a-178d-4ef2-a2a7-d39176750f03|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|160275000|101000000|1fc7fd79-26c9-4486-8075-2587c2f438aa|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|160275000|101850000|327a5ff5-2705-468d-8bcd-a8c056afa4ab|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|160275000|102700000|ae415d6e-abfe-4b4b-a37a-e948ed6a4038|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|164395000|79050000|d01e46e7-13cb-4ac5-bfec-c155863a27c3|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|164395000|80350000|337b9521-0fc4-42ab-8a57-b43e46c43f57|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|165695000|79050000|3cbc3124-0d9e-44e0-a895-fa2d1ccb9fbe|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|165695000|80350000|a39f48b7-7568-484e-be71-b343c0325caa|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|166995000|79050000|05557d43-85fd-4d2f-aa3e-e9ea804e7322|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|166995000|80350000|f9eb6eca-d10e-40a9-b921-21ed9ac3249c|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|174400000|79050000|5c3b44c2-c826-44dd-816a-c6933ce0818b|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|174400000|80350000|4cd8a38a-3be2-4055-98c5-e5ca4be4d470|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|175700000|79050000|b863ac02-4413-48d1-8285-1d41d7740679|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|175700000|80350000|117957bb-f043-4325-8f43-ebc35b097539|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|177000000|79050000|5f847dd7-505f-4bd7-925c-94ed737f5978|00000000-0000-0000-0000-000000000000",
+        "drill_out_of_range|177000000|80350000|6c624b4c-d39f-4cd1-b996-a82b5036c2c5|00000000-0000-0000-0000-000000000000",
+        "silk_overlap|143040000|70650000|4bf0166b-037e-4ebe-ad8d-82c96305e638|51d8e2a3-2adc-4387-8436-e33bd5c6c032",
+        "silk_overlap|143040000|71610000|4bf0166b-037e-4ebe-ad8d-82c96305e638|6c33b11c-4159-48dd-9414-4edff51852ed",
+        "silk_overlap|144450000|97500000|ee4e4657-ba06-4e4e-9937-f6bded9ecd67|e662d1bb-b5b9-48c0-8a24-3616f7e7f97e",
+        "silk_overlap|146750000|95400000|0dbd0746-bc5e-417e-aa91-33fe09a76ef1|accf381c-de3c-4ccf-b4bd-367a0c3e65ce",
+        "silk_overlap|163245000|78225000|449d6a1b-3dd7-4a1b-a1c4-88eeb403be7a|26459c4a-9807-4f2f-b0cc-69f6c4dc513e",
+        "silk_overlap|168145000|78225000|8e89a13a-96ca-4329-8f14-76535b146f60|26459c4a-9807-4f2f-b0cc-69f6c4dc513e",
+        "silk_overlap|173250000|78225000|ea84fc84-3773-470e-9691-2211bd9cb779|a0f1509e-2cd3-4742-af81-c667cfebfdc2",
+        "silk_overlap|178150000|78225000|05fe7ed4-1e11-4dfd-aabe-8f8c212e1408|a0f1509e-2cd3-4742-af81-c667cfebfdc2"
+      ],
       "meta": {
         "version": 2
       },
@@ -637,11 +671,59 @@
           "label": "DNP",
           "name": "${DNP}",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field5",
+          "name": "Field5",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "PN",
+          "name": "PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Package",
+          "name": "Package",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

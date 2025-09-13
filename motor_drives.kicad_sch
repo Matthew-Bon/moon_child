@@ -1910,6 +1910,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A106KOQNNNE"
+			(at 64.77 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 64.77 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "049c281a-65fd-4d94-93e0-be5dbd6c6479")
 		)
@@ -1969,6 +1987,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 60.96 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 60.96 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW040286K6FKEDC"
 			(at 60.96 104.14 0)
 			(effects
 				(font
@@ -2047,6 +2083,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A106KOQNNNE"
+			(at 22.86 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 22.86 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8d3fda30-faec-476f-af5a-62772b7da9dd")
 		)
@@ -2117,6 +2171,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A106KOQNNNE"
+			(at 43.18 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 43.18 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c5a7cb0c-da1e-430e-8b61-a7ea1424ecab")
 		)
@@ -2139,7 +2211,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "43bf6b2c-2f38-41dd-bfe2-168b8496aaeb")
 		(property "Reference" "TP3"
 			(at 29.972 86.36 0)
@@ -2242,6 +2314,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 60.96 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 60.96 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW040286K6FKEDC"
 			(at 60.96 66.04 0)
 			(effects
 				(font
@@ -2449,6 +2539,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 29.21 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
+			(at 29.21 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ca301b8-84de-4845-b5d8-a866c1372fd0")
 		)
@@ -2585,6 +2693,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "DRV8871DDAR"
+			(at 48.26 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "8-PowerSOIC (0.154\", 3.90mm Width)"
+			(at 48.26 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "2a1f17b7-ebe2-462a-95fb-b7a6309d07d0")
 		)
@@ -2668,6 +2794,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 33.02 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21A106KOQNNNE"
+			(at 33.02 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
 			(at 33.02 175.26 0)
 			(effects
 				(font
@@ -2764,7 +2908,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "89c512b6-1200-4a1e-b5ae-b4caaed6ecd2")
 		(property "Reference" "TP4"
 			(at 30.226 100.33 0)
@@ -2875,6 +3019,24 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "0402"
+			(at 29.21 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
+			(at 29.21 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6d86a328-c527-45ac-b9ca-331ae2be4521")
 		)
@@ -2897,7 +3059,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8f6ef21c-7af1-42f1-b96e-05247ee3c695")
 		(property "Reference" "TP1"
 			(at 29.972 48.26 0)
@@ -3011,6 +3173,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 19.05 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 19.05 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0d80b97e-7b8d-4a67-8de6-9efbb48ebab6")
 		)
@@ -3099,7 +3279,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9f60ec61-768b-4eb2-99fc-7e681e65d8e7")
 		(property "Reference" "TP2"
 			(at 30.226 62.23 0)
@@ -3213,6 +3393,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CC0603KRX7R7BB104"
+			(at 29.21 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0603"
+			(at 29.21 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f041f327-e64c-4164-8f75-8fc21d82cfb9")
 		)
@@ -3272,6 +3470,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 29.21 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 29.21 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
 			(at 29.21 92.71 0)
 			(effects
 				(font
@@ -3350,6 +3566,24 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL21A106KOQNNNE"
+			(at 74.93 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
+			(at 74.93 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "97edc097-060b-4ba1-9183-89d110f138ba")
 		)
@@ -3409,6 +3643,24 @@
 			)
 		)
 		(property "Description" "Resistor, small US symbol"
+			(at 29.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0402"
+			(at 29.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-070RL"
 			(at 29.21 95.25 0)
 			(effects
 				(font
@@ -3479,6 +3731,24 @@
 			)
 		)
 		(property "Description" "Brushed DC Motor Driver, PWM Control, 45V, 3.6A, Current limiting, HTSOP-8"
+			(at 48.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "DRV8871DDAR"
+			(at 48.26 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "8-PowerSOIC (0.154\", 3.90mm Width)"
 			(at 48.26 57.15 0)
 			(effects
 				(font
@@ -3570,6 +3840,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 53.34 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL21A106KOQNNNE"
+			(at 53.34 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "0805"
 			(at 53.34 175.26 0)
 			(effects
 				(font
