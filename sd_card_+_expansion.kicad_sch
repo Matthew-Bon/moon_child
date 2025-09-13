@@ -2855,7 +2855,7 @@
 				)
 			)
 		)
-		(property "Value" "Polyfuse_Small"
+		(property "Value" "250mA"
 			(at 30.48 44.45 90)
 			(effects
 				(font

@@ -5797,7 +5797,7 @@
 		)
 		(uuid "51f1d399-348b-4329-96de-1ed214aa2693")
 	)
-	(text "Vbatt_Sense = 3.0V @ 12.6V input not accounting for tolerances"
+	(text "Vbatt_Sense = 2.97V @ 12.6V input not accounting for tolerances"
 		(exclude_from_sim no)
 		(at 47.498 166.116 0)
 		(effects
@@ -6548,7 +6548,7 @@
 				)
 			)
 		)
-		(property "Value" "Polyfuse_Small"
+		(property "Value" "250mA"
 			(at 109.22 29.21 90)
 			(effects
 				(font
@@ -10746,6 +10746,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402FR-075K1L"
+			(at 241.3 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "11b1d64f-b863-457c-a0a8-e08a6abafb3a")
 		)
@@ -10968,6 +10977,15 @@
 			)
 		)
 		(property "Package" "0402"
+			(at 241.3 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-075K1L"
 			(at 241.3 124.46 0)
 			(effects
 				(font

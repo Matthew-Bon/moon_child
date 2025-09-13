@@ -4159,6 +4159,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ERA-2AEB302X"
+			(at 27.94 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b706efff-08c9-4e3d-8ac1-ec27aa9b6e5c")
 		)

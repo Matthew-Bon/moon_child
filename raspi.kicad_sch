@@ -7926,6 +7926,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0402FR-07100RL"
+			(at 30.48 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dfa6cbb3-15ab-4795-9c10-9edbd5e45075")
 		)
@@ -8245,6 +8254,15 @@
 			)
 		)
 		(property "Package" "0402"
+			(at 30.48 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-07100RL"
 			(at 30.48 143.51 0)
 			(effects
 				(font
@@ -8818,6 +8836,15 @@
 			)
 		)
 		(property "Package" "0402"
+			(at 264.16 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0710RL"
 			(at 264.16 64.77 0)
 			(effects
 				(font
@@ -11359,6 +11386,15 @@
 			)
 		)
 		(property "Package" "0402"
+			(at 139.7 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-0710RL"
 			(at 139.7 21.59 0)
 			(effects
 				(font
